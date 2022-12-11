@@ -6,7 +6,7 @@ How to use Pycocotools and CocoDataset. Pycocotools detailed explanation.
 
 ---
 
-![people_with_annotations.png](H:\My%20Drive\github\using_pycocotools\images\people_with_annotations.png)
+![people_with_annotations.png](images/people_with_annotations.png)
 
 # What is COCO?
 
