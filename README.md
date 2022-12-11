@@ -28,7 +28,7 @@ COCO is a large-scale object detection, segmentation, and captioning dataset. CO
 
 **Images:** Provides all the image information in the dataset without bounding box or segmentation information. An example of image information
 
-```json
+```textile
 “image”: [{'license': 4,
   'file_name': '000000252219.jpg',
   'coco_url': 'http://images.cocodataset.org/val2017/000000252219.jpg',
@@ -42,7 +42,7 @@ COCO is a large-scale object detection, segmentation, and captioning dataset. CO
 
 **Annotations:** Provides a list of every individual object annotation from each image in the dataset.
 
-```json
+```textile
 anns [
 {'segmentation': [[361.81, …, 365.48]], 
 'num_keypoints': 17, 
